@@ -600,7 +600,7 @@ return $count;
 
 //导航菜单 Walker 对象 icon 字体优化
 class description_walker extends Walker_Nav_Menu{
-        function start_el(&$output, $item, $depth, $args){
+        function start_el(&$output, $item, $depth=0, $args=array(),$id=0){
                 global $wp_query;
                 $indent = ( $depth ) ? str_repeat( "\t", $depth ) : '';
                 $class_names = '';
