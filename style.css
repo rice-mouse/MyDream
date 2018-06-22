@@ -1,4 +1,4 @@
-﻿/*
+/*
 Theme Name: MyDream
 Theme URI: http://www.ricemouse.com
 Description: 梦想,一个迷人而又绚丽的代名词
@@ -341,7 +341,7 @@ table > tbody > tr:last-child > td:last-child {-webkit-border-bottom-right-radiu
 .img-box {margin: 0 -10px;}
 .insets a img {border-radius: 3px;float: left;max-width: 100%;width: auto;height: auto;-webkit-transition: -webkit-transform .3s linear;-moz-transition: -moz-transform .3s linear;	-o-transition: -o-transform .3s linear;	transition: transform .3s linear;}
 .insets :hover img{transition: All 0.3s ease;	-webkit-transform: scale(0.95);	-moz-transform: scale(0.95);	-ms-transform: scale(0.95);	-o-transform: scale(0.95);}
-.img-title {width: 100%;height: 40px;line-height: 1.5;font-size:13px;overflow: hidden;}
+.img-title {width: 100%;height: 24px;line-height: 1.6;font-size:14px;overflow: hidden;}
 
 
 /** 侧边缩略图 **/
@@ -562,7 +562,7 @@ img.alignleft{margin: 0 10px 10px 0;display: inline;}
 #related-img {background: #fff;margin-bottom: 10px;padding: 10px 10px 5px 10px;border: 1px solid #ddd;border-radius: 2px;box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);}
 .related-title { background: #fff;height: 40px;font-size: 15px;line-height: 140%;overflow: hidden;}
 .related-site {max-width: 100%;width: auto;height: auto;padding: 5px;}
-.related-site-img {position: relative;max-width: 100%;width: auto;height: auto;overflow: hidden;}
+.related-site-img {max-width: 100%;width: auto;height: auto;overflow: hidden;}
 .related-site-img a img {max-width: 100%;width: auto;height: auto;border-radius: 3px;-webkit-transition: -webkit-transform .3s linear;-moz-transition: -moz-transform .3s linear;	-o-transition: -o-transform .3s linear;	transition: transform .3s linear;}
 .related-site-img  :hover img{transition: All 0.3s ease;	-webkit-transform: scale(0.95);	-moz-transform: scale(0.95);	-ms-transform: scale(0.95);	-o-transform: scale(0.95)}
 @media screen and (min-width: 900px) {
