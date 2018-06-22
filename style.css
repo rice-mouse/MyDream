@@ -141,7 +141,7 @@ table > tbody > tr:last-child > td:last-child {-webkit-border-bottom-right-radiu
 
 
 /** 主导航 **/
-#menu-box {width: 100%;margin:0 auto;z-index: 999;*+right: 0;border-bottom: 1px solid rgba(64,64,64,0.5);
+#menu-box {width: 100%;margin:0 auto;z-index: 999;right: 0;border-bottom: 1px solid rgba(64,64,64,0.5);
     box-shadow: 0 1px 1px rgba(64,64,64,0.5);background:#304040}
 #menu-box.shadow {top: 0;position: fixed;background: rgba(48, 64, 64, 0.9);}
 #site-nav .default-menu li a {margin: 10px 10px 0 0;}
