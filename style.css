@@ -337,7 +337,7 @@ table > tbody > tr:last-child > td:last-child {-webkit-border-bottom-right-radiu
 .li-numbers{float: left;background: #ccc;font-size: 14px;color: #fff;line-height: 180%;margin: 4px 5px 0 0;padding: 0 6px;border-radius: 12px;}
 
 /** 图片小工具 **/
-.img-x2 {float: left;width: 50%;padding:0 5px;}
+.img-x2 {float: left;width: 50%;padding:5px;}
 .img-box {margin: 0 -10px;}
 .insets a img {border-radius: 3px;float: left;max-width: 100%;width: auto;height: auto;-webkit-transition: -webkit-transform .3s linear;-moz-transition: -moz-transform .3s linear;	-o-transition: -o-transform .3s linear;	transition: transform .3s linear;}
 .insets :hover img{transition: All 0.3s ease;	-webkit-transform: scale(0.95);	-moz-transform: scale(0.95);	-ms-transform: scale(0.95);	-o-transform: scale(0.95);}
